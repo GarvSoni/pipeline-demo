@@ -1,0 +1,1 @@
+Save model checkpoints, full raw data, training set data, test set data, and other saving files in this folder.
